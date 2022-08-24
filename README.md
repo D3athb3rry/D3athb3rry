@@ -12,7 +12,7 @@
 [![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/facebook-light.svg)](https://www.facebook.com/d3athberry#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](hhttps://www.facebook.com/d3athberry#gh-dark-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/d3athberry#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/deathberry#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/deathberry#gh-dark-mode-only)
@@ -55,5 +55,5 @@
 
 ### GitHub Stats</summary>
 
-<img align="left" alt="Deathberry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=D3athb3rry&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Deathberry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=D3athb3rry&show_icons=true&hide_border=false&title_color=800080&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 

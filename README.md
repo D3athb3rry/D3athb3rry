@@ -1,6 +1,6 @@
 # Hi there, I'm Dmytro - aka [Deathberry]👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Ukrainian, Gamer, Developer!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
